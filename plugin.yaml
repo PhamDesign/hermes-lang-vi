@@ -1,0 +1,8 @@
+name: hermes-lang-vi
+version: 1.0.0
+description: Vietnamese language pack for Hermes Desktop
+author: openai.vn
+provides_locales:
+  - id: vi
+    endonym: Tiếng Việt
+    rtl: false
